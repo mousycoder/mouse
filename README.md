@@ -138,3 +138,9 @@ gem install rb-fsevent
 ## 许可
 
 Mouse 遵循 Uno 的要求按照 [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) 进行授权。点击上面的链接可以了解到更多信息。
+
+## 技术支持
+
+- Issues(推荐):[提交您的Issue](https://github.com/mousycoder/mouse/issues)
+- QQ技术支持群： <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=1ee1e533b44ef916dd09742b52472317a54eb00880127d4f4c6f1ec06e4397e3"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Java 交流群" title="Java 交流群"> 70812183</a>
+- 个人博客:[@mousycoder](http://mousycoder.com)
